@@ -32,10 +32,13 @@ python3 password_generator.py
 3. Enter your desired length, select character options, and click **Generate**.
 4. Click **Copy to Clipboard** to use your password elsewhere.
 
-
-![Image alt](https://github.com/LaytonL24/File-Organizer/blob/82ebe43667e1ad5f8d74bb0d524d788537824fd4/Red.png)
-
 ## Notes
 
 * Password length must be between 8 and 32 characters
 * At least one character type must be selected
+
+## Pictures
+![Image alt](https://github.com/LaytonL24/File-Organizer/blob/82ebe43667e1ad5f8d74bb0d524d788537824fd4/Red.png)
+![Image alt]([https://github.com/LaytonL24/File-Organizer/blob/82ebe43667e1ad5f8d74bb0d524d788537824fd4/Red.png](https://github.com/LaytonL24/File-Organizer/blob/e5b02b66f0d96567d9158a57228af90bfd555217/blue.png))
+![Image alt]([https://github.com/LaytonL24/File-Organizer/blob/82ebe43667e1ad5f8d74bb0d524d788537824fd4/Red.png](https://github.com/LaytonL24/File-Organizer/blob/0f0e51a061650456e4545c3b8130128f1221070f/green.png))
+
